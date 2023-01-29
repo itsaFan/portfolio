@@ -84,7 +84,7 @@ export const Project = () => {
                         <Nav.Link eventKey="third">Mini Project</Nav.Link>
                       </Nav.Item>
                     </Nav>
-                    <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
+                    <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__bounceIn" : ""}>
                       <Tab.Pane eventKey="first">
                         <Row>
                           {
