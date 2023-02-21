@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f67bc217.css",
-    "main.js": "/portfolio/static/js/main.84cace2c.js",
+    "main.js": "/portfolio/static/js/main.ec479a24.js",
     "static/js/787.7e40aae3.chunk.js": "/portfolio/static/js/787.7e40aae3.chunk.js",
     "static/media/me.png": "/portfolio/static/media/me.b9190d02c9f5650eb1cf.png",
     "static/media/web-project1.png": "/portfolio/static/media/web-project1.d586db5f8a1ea2d1c6f1.png",
     "static/media/background-banner.jpg": "/portfolio/static/media/background-banner.1d1e7288968e3c6e1270.jpg",
     "static/media/splash-right.png": "/portfolio/static/media/splash-right.53ca70565f4d0725fa4c.png",
-    "static/media/CV-Steffansim.pdf": "/portfolio/static/media/CV-Steffansim.d0dd1607f84b1a50b9ff.pdf",
+    "static/media/Resume-Steffansim.pdf": "/portfolio/static/media/Resume-Steffansim.3051a458037e8a044fb6.pdf",
     "static/media/web-project2.png": "/portfolio/static/media/web-project2.1e08f9dc32ce100e7e28.png",
     "static/media/splash-left.png": "/portfolio/static/media/splash-left.4ea419b34f17d2a5a271.png",
     "static/media/web-project3.png": "/portfolio/static/media/web-project3.d40664aa8b0239eeb1f8.png",
@@ -26,11 +26,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.f67bc217.css.map": "/portfolio/static/css/main.f67bc217.css.map",
-    "main.84cace2c.js.map": "/portfolio/static/js/main.84cace2c.js.map",
+    "main.ec479a24.js.map": "/portfolio/static/js/main.ec479a24.js.map",
     "787.7e40aae3.chunk.js.map": "/portfolio/static/js/787.7e40aae3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f67bc217.css",
-    "static/js/main.84cace2c.js"
+    "static/js/main.ec479a24.js"
   ]
 }
