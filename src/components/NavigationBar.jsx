@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Navbar, Container, Nav } from "react-bootstrap";
 import "./css/Navbar.css";
-import CV from '../assets/mics/CV-Steffansim.pdf';
+import CV from '../assets/mics/Resume-Steffansim.pdf';
 import { BrowserRouter as Router } from "react-router-dom";
 
 
