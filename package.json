@@ -1,7 +1,7 @@
 {
   "homepage": "https://itsafan.github.io/portfolio/",
   "name": "steff-portfolio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
